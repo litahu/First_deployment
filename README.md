@@ -61,6 +61,8 @@ El proyecto simula un caso de uso real para "Scones Unlimited", una empresa de d
 - **Precisión para Motocicletas**: 79%
 - **Umbral de Confianza**: 93%
 
+![pagina](https://github.com/litahu/First_deployment/blob/main/assest/cloudAWS_1.1.gif)
+
 ### Performance del Sistema
 - **Tiempo de Inferencia**: < 2 segundos end-to-end
 - **Disponibilidad**: 99.95% (gracias a la infraestructura AWS)
