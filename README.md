@@ -1,6 +1,6 @@
 # 🎫Implementación y supervisión de un flujo de trabajo de aprendizaje automático en AWS
 
-##💡 1. Descripción del Proyecto
+## 💡 1. Descripción del Proyecto
 
 Este proyecto implementa un flujo de trabajo completo de Machine Learning para clasificación de imágenes en AWS, específicamente diseñado para distinguir entre bicicletas y motocicletas. La solución utiliza servicios serverless de AWS para crear una arquitectura escalable y de bajo costo que incluye:
 
@@ -13,7 +13,7 @@ Este proyecto implementa un flujo de trabajo completo de Machine Learning para c
 
 El proyecto simula un caso de uso real para "Scones Unlimited", una empresa de delivery que necesita clasificar vehículos automáticamente para optimizar rutas de entrega.
 
-##☁ 2. Herramientas y Servicios Utilizados
+## ☁ 2. Herramientas y Servicios Utilizados
 
 ### Archivos Principales
 - **starter.ipynb**: Notebook que contiene todo el flujo de ETL, entrenamiento y despliegue
@@ -36,7 +36,7 @@ El proyecto simula un caso de uso real para "Scones Unlimited", una empresa de d
 </p>
 
 
-##🏆 3. Experiencia con Microservicios de Amazon
+## 🏆 3. Experiencia con Microservicios de Amazon
 
 **La curva de aprendizaje fue real** 😅
 - Comprendí que generar los IAM es propio de cada microservicio, ya que cada uno formula politicas muy personalizadas(¡Requiere paciencia, pero evita problemas después!)  
@@ -53,7 +53,7 @@ El proyecto simula un caso de uso real para "Scones Unlimited", una empresa de d
 - Poder probar cada Lambda individualmente antes de integrarlas
 
 
-##📊 4. Resultados
+## 📊 4. Resultados
 
 ### Métricas del Modelo
 - **Accuracy en Validación**: 82%
@@ -78,7 +78,7 @@ El proyecto simula un caso de uso real para "Scones Unlimited", una empresa de d
 </p>
 
 
-##💖 6. Agradecimiento
+## 💖 6. Agradecimiento
 
 Este proyecto fue posible gracias a:
 
