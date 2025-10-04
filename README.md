@@ -1,4 +1,4 @@
-# 🎫Implementación y supervisión de un flujo de trabajo de aprendizaje automático en AWS
+# 🎫 Implementación y supervisión de un flujo de trabajo de aprendizaje automático en AWS
 
 ## 💡 1. Descripción del Proyecto
 
