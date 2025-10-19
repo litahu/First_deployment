@@ -31,17 +31,17 @@ El proyecto simula un caso de uso real para "Scones Unlimited", una empresa de d
 - **CloudWatch**: Monitoreo y logging
 
 <p align="center">
-    <kbd> <img width="800" alt="jkhjk" src= "https://github.com/litahu/First_deployment/blob/main/assest/cloudAWS_1.PNG" > </kbd> <br>
+    <kbd> <img width="900" alt="jkhjk" src= "https://github.com/litahu/First_deployment/blob/main/assest/cloudAWS_1.PNG" > </kbd> <br>
     Image — Interaccion con la nube de Amazon Web Services
 </p>
 
 <p align="center">
-    <kbd> <img width="800" alt="jkhjk" src= "https://github.com/litahu/First_deployment/blob/main/assest/cloudAWS_2.PNG" > </kbd> <br>
+    <kbd> <img width="900" alt="jkhjk" src= "https://github.com/litahu/First_deployment/blob/main/assest/cloudAWS_2.PNG" > </kbd> <br>
     Image — AWS Lambda
 </p>
 
 <p align="center">
-    <kbd> <img width="800" alt="jkhjk" src= "https://github.com/litahu/First_deployment/blob/main/assest/cloudAWS_3.PNG" > </kbd> <br>
+    <kbd> <img width="900" alt="jkhjk" src= "https://github.com/litahu/First_deployment/blob/main/assest/cloudAWS_3.PNG" > </kbd> <br>
     Image — Test de AWS Lambda
 </p>
 
