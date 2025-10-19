@@ -32,7 +32,7 @@ El proyecto simula un caso de uso real para "Scones Unlimited", una empresa de d
 
 <p align="center">
     <kbd> <img width="900" alt="jkhjk" src= "https://github.com/litahu/First_deployment/blob/main/assest/cloudAWS_1.PNG" > </kbd> <br>
-    Image — Interaccion con la nube de Amazon Web Services
+    Image — Interacciones con la nube de Amazon Web Services
 </p>
 
 <p align="center">
