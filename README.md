@@ -97,7 +97,4 @@ Este proyecto fue posible gracias a:
 - **Mi familia** por facilitarme su apoyo incondicional(¡Me inspiran cada día!)
 - **Los instructores y compañeros** por el feedback valioso durante el desarrollo(¡Me ayudaron a acercarme más al entorno cloud. Gracias infinitas!)
 
-<p align="center">
-    <kbd> <img width="800" alt="jkhjk" src= "https://github.com/litahu/First_deployment/blob/main/assest/cloud_complete.PNG" > </kbd> <br>
-</p>
 
