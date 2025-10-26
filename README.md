@@ -95,6 +95,6 @@ Este proyecto fue posible gracias a:
 
 - **Amazon Web Services y Udacity** por proporcionarme una plataforma robusta con documentación exhaustiva para implementar un modelo de machine learning de forma muy vivida.
 - **Mi familia** por facilitarme su apoyo incondicional(¡Me inspiran cada día!)
-- **Los instructores y compañeros** por el feedback valioso durante el desarrollo(¡Me ayudaron a acercarme más al entorno cloud. Gracias infinitas!)
+- **Los instructores y compañeros** por el feedback valioso durante el desarrollo(¡Me ayudaron a acercarme más al entorno cloud! Gracias infinitas.)
 
 
