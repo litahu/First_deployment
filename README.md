@@ -78,6 +78,7 @@ El proyecto simula un caso de uso real para "Scones Unlimited", una empresa de d
 - **Escalabilidad**: Hasta 1000+ invocaciones concurrentes
 
 ### Monitoreo Implementado
+
 - Captura de datos de entrada/salida del endpoint
 - Métricas de confianza en tiempo real
 - Alertas para inferencias de baja confianza
@@ -85,7 +86,7 @@ El proyecto simula un caso de uso real para "Scones Unlimited", una empresa de d
 
 <p align="center">
     <kbd> <img width="800" alt="jkhjk" src= "https://github.com/litahu/First_deployment/blob/main/assest/cloudAWS_8.PNG" > </kbd> <br>
-    Image — Monitoreando el flujo de las predicciones superiores al umbral 0.93
+    Image — Monitoreando el flujo de las predicciones superiores al umbral 0.93 ![Ver página](https://voila.readthedocs.io/en/stable/deploy.html#deployment-on-binder)
 </p>
 
 
