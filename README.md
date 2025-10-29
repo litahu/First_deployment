@@ -79,7 +79,7 @@ El proyecto simula un caso de uso real para "Scones Unlimited", una empresa de d
 
 ### Monitoreo Implementado 
 
-- Captura de datos de entrada/salida del endpoint desde ![Voila](https://voila.readthedocs.io/en/stable/deploy.html#deployment-on-binder)
+- Captura de datos de entrada/salida del endpoint desde [Voila](https://voila.readthedocs.io/en/stable/deploy.html#deployment-on-binder)
 - Métricas de confianza en tiempo real
 - Alertas para inferencias de baja confianza
 - Dashboard de CloudWatch para monitoreo continuo
