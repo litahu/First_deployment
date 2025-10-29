@@ -70,14 +70,14 @@ El proyecto simula un caso de uso real para "Scones Unlimited", una empresa de d
 - **Precisión para Motocicletas**: 79%
 - **Umbral de Confianza**: 93%
 
-![pagina](https://github.com/litahu/First_deployment/blob/main/assest/cloudAWS_1.1.gif)
+[pagina](https://github.com/litahu/First_deployment/blob/main/assest/cloudAWS_1.1.gif)
 
 ### Performance del Sistema
 - **Tiempo de Inferencia**: < 2 segundos end-to-end
 - **Disponibilidad**: 99.95% (gracias a la infraestructura AWS)
 - **Escalabilidad**: Hasta 1000+ invocaciones concurrentes
 
-### Monitoreo Implementado
+### Monitoreo Implementado [Ver página](https://voila.readthedocs.io/en/stable/deploy.html#deployment-on-binder)
 
 - Captura de datos de entrada/salida del endpoint
 - Métricas de confianza en tiempo real
@@ -86,7 +86,7 @@ El proyecto simula un caso de uso real para "Scones Unlimited", una empresa de d
 
 <p align="center">
     <kbd> <img width="800" alt="jkhjk" src= "https://github.com/litahu/First_deployment/blob/main/assest/cloudAWS_8.PNG" > </kbd> <br>
-    Image — Monitoreando el flujo de las predicciones superiores al umbral 0.93 [Ver página](https://voila.readthedocs.io/en/stable/deploy.html#deployment-on-binder)
+    Image — Monitoreando el flujo de las predicciones superiores al umbral 0.93 
 </p>
 
 
